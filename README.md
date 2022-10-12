@@ -86,6 +86,11 @@ cells (ao21, ao22, ao33)
 
 # Installation
 
+`python-venv` is required, to install it on Debian/Ubuntu:
+```
+sudo apt install python3.10-venv
+```
+
 vlsiffra is a python package, so this will install it and any
 dependencies:
 
